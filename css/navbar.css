@@ -1,0 +1,31 @@
+nav{
+    width: 100%;
+    overflow: auto;
+
+background-color: rgb(255,215,0,0.5);
+}
+
+
+nav ul{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    justify-content: center;
+    justify-items :center;
+    list-style: none;
+    line-height: 5px;
+}
+
+
+nav li{
+    list-style-type: none;     
+}
+
+
+nav ul li a{
+    text-decoration: none;
+    width: auto;
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 0.5px;
+}

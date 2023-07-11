@@ -1,0 +1,26 @@
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+
+.fa-facebook {
+    background: rgb(44, 82, 139);
+    color: white;
+}
+
+
+.fa-twitter {
+    background: rgb(86, 186, 233);
+    color: white;
+}
+
+
+.fa-linkedin {
+    background: rgb(2, 113, 177);
+    color: white;
+}

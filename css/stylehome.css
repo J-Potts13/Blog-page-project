@@ -1,0 +1,8 @@
+@import url("navbar.css");
+@import url("s_media.css");
+@import url("card.css");
+
+footer{
+    text-align: center;
+    border: 0;
+}
